@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Aman Srivastav</h1>
-<h3 align="center">Hey there! I’m Aman, a curious engineer exploring the world of Data Science and Machine Learning. I’ve built projects that bridge analytics with innovation</h3>
+<h3 align="center">A curious engineer exploring the world of Data Science and Machine Learning. I’ve built projects that bridge analytics with innovation</h3>
 
 - 📫 How to reach me **aks211531@gmail.com**
 
